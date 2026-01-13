@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Streamlit
+.streamlit/
+
+# Ollama / models / outputs
+outputs/
+models/
+
+# OS
+.DS_Store

@@ -1,0 +1,3 @@
+# skills_master.txt
+# Canonical list of technical and professional skills
+# Used for resume–JD skill gap analysis
