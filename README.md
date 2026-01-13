@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+
 # AI Resume ↔ Job Description Matcher (Offline, Local, Open-Source)
 
 A fully offline Generative AI tool that analyzes a Resume against a Job Description and generates a **professional PDF report** with:
