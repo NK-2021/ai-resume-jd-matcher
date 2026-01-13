@@ -30,7 +30,7 @@ This project focuses on:
 
 ---
 
-## 🧠 How it works (High-level workflow)
+## 🧠 How it works (Architecture High-level workflow)
 Resume + Job Description
 ↓
 Text Extraction & Cleaning
