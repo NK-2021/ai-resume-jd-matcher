@@ -99,7 +99,6 @@ resume_jd_matcher/
 ## ▶️ How to run locally
 
 ### 1️⃣ Install dependencies
-```bash
 pip install streamlit sentence-transformers reportlab
 
 ### 2️⃣ Install & start Ollama
@@ -108,6 +107,14 @@ ollama pull mistral:7b
 
 ### 3️⃣ Run the application
 streamlit run app.py --server.fileWatcherType none
+---
+## 📸 Screenshots
+
+### Home / Upload
+![Home](screenshots/home.png)
+
+### Match Score & Analysis
+![Match Score](screenshots/pdf_report_top.png)
 
 ## License
 MIT License
